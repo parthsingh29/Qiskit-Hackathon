@@ -1,0 +1,21 @@
+# Virtual Environment
+/venv/
+
+# CNN dataset
+/assets/data/
+
+# captured images 
+/assets/captures/
+
+# CNN saved models
+/assets/model/
+
+# pycache
+*/__pycache__/
+
+# IDE
+/.vscode/
+/.idea/
+
+# Jupyter Notebook
+*/.ipynb_checkpoints/
